@@ -1,65 +1,65 @@
-# Markdown Cheat Sheet
+# Markdown Cheat Sheet Markdown 速查表
 
-## Basic Syntax
+## Basic Syntax 基本语法
 
 
-### Heading
+### Heading 标题
 
-# H1
-## H2
-### H3
+# H1 一级标题
+## H2 二级标题
+### H3 三级标题
 
-### Bold
+### Bold 粗体
 
-**bold text**
+**bold text 粗体文本**
 
-### Italic
+### Italic 斜体
 
-*italicized text*
+*italicized text 斜体文本*
 
-### Blockquote
+### Blockquote 引用块
 
-> blockquote
+> blockquote 引用块
 
-### Ordered List
+### Ordered List 有序列表
 
-1. First item
-2. Second item
-3. Third item
+1. First item 第一项
+2. Second item 第二项
+3. Third item 第三项
 
-### Unordered List
+### Unordered List 无序列表
 
-- First item
-- Second item
-- Third item
+- First item 第一项
+- Second item 第二项
+- Third item 第三项
 
-### Code
+### Code 代码
 
-`code`
+`code 代码`
 
-### Horizontal Rule
+### Horizontal Rule 水平分割线
 
 ---
 
-### Link
+### Link 链接
 
 [Markdown Guide](https://www.markdownguide.org)
 
-### Image
+### Image 图像
 
-![alt text](https://www.markdownguide.org/assets/images/tux.png)
+![alt text 替代性文本](https://www.markdownguide.org/assets/images/tux.png)
 
-## Extended Syntax
+## Extended Syntax 拓展语法
 
 
-### Table
+### Table 表格
 
-| Syntax | Description |
+| Syntax 语法 | Description 描述 |
 | ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| Header 首部 | Title 标题 |
+| Paragraph 段落 | Text 文本 |
 
-### Fenced Code Block
+### Fenced Code Block 有框代码块
 
 ```
 {
@@ -69,7 +69,7 @@
 }
 ```
 
-### Footnote
+### Footnote 脚标
 
 Here's a sentence with a footnote. [^1]
 
